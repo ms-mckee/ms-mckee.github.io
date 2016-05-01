@@ -1,2 +1,3 @@
 name: Ms. McKee
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
