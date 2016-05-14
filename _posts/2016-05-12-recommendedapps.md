@@ -4,7 +4,7 @@ title: "Native Numbers- Recommended Math App for Primary Ed"
 date: 2016-05-06
 ---
 <p>
-It's been so fun getting the iPads working and into the hands of the Kindergartners! Below are a few (free*) apps I would recommend for Kinder. Enjoy!
+It's been so fun getting the iPads working and into the hands of the Kindergartners! Below is a (free*) app I would recommend for Kinder. Enjoy!
 </p>
 
 <h>Native Numbers</h>
