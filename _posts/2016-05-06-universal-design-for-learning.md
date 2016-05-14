@@ -4,7 +4,7 @@ title: "Universal Design for Learning"
 date: 2016-05-06
 ---
 <p>
-I've been learning about Universal Design for Learning (UDL). According to the National Assocation for Universal Design's website at [http://www.udlcenter.org/](http://www.udlcenter.org/), UDL is, "a set of principles for curriculum development that give all individuals equal opportunities to learn. UDL provides a blueprint for creating instructional goals, methods, materials, and assessments that work for everyone--not a single, one-size-fits-all solution but rather flexible approaches that can be customized and adjusted for individual needs."
+I've been learning about Universal Design for Learning (UDL). According to the National Assocation for Universal Design's website at <a href="http://www.udlcenter.org/"www.udlcenter.org.</a>, UDL is, "a set of principles for curriculum development that give all individuals equal opportunities to learn. UDL provides a blueprint for creating instructional goals, methods, materials, and assessments that work for everyone--not a single, one-size-fits-all solution but rather flexible approaches that can be customized and adjusted for individual needs."
 </p>
 <p>
 The idea of Universal Design was first introduced in architecture. The idea is that when architects plan buildings and environments, if new structures are designed to meet the needs of disabled users, all users will benefit. The classic example is the curb cut. The curb cut allows for access for people in wheelchairs, but also for people using strollers and rolling luggage. 
