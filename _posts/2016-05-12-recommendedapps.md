@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Recommended Apps for Primary Education"
+title: "Native Numbers- Recommended Math App for Primary Ed"
 date: 2016-05-06
 ---
 <p>
