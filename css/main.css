@@ -2,6 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
     font-family: 'Libre Baskerville', serif;
+    font-size: 12px;
 }
 nav ul, footer ul {
     font-family: 'Lato', 'Helvetica', 'Arial', 'Sans-Serif';
