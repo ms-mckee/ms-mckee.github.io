@@ -6,18 +6,17 @@ date: 2016-05-14
 <p>At our school site, we have had many problems connecting to the iTunes store to download educational apps. Here are the steps I've followed to get the devices to connect to the iTunes store.</p>
 <ul>
 <li>I always start by restarting the device.</li>
+<li><ul>
+  <li>Hold the button at upper right down until screen goes black</li>
+  <li>Press button again to power on</li>
+</ul></li>
+<li>If it still won't connect, go to Settings and check for updates</li>
 
-</li>Hold the button at upper right down until screen goes black</li>
+<li> Choose Setting from the App Menu, then click on General</li>
 
-</li>Press button again to power on</li>
+<li> Click on Software updates</li>
 
-<li>If it stil won't connect, go to Settings and check for updates</li>
-
-</li> Choose Setting from the App Menu, then click on General</li>
-
-</li> Click on Software updates</li>
-
-</li> Available updates will display. Click to install updates.</li>
+<li> Available updates will display. Click to install updates.</li>
 
 </li> After upadtes are installe,device will automatically restart and display "Welcome."</li>
 
