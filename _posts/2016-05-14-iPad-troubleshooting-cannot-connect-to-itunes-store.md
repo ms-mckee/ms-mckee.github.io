@@ -1,6 +1,8 @@
+---
 layout: post
 title: "Troubleshooting iPad Wireless Connectivity- Cannot Connect to iTunes Store Error Message"
 date: 2016-05-14
+---
 <p>At our school site, we have had many problems connecting to the iTunes store to download educational apps. Here are the steps I've followed to get the devices to connect to the iTunes store.</p>
 <ul>
 <li>I always start by restarting the device.</li>
